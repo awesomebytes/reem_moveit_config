@@ -9,6 +9,8 @@ MoveIt configuration package for the REEM robot of PAL Robotics (two 7 dof arms 
 
 PACKAGE DEPENDENCIES
 ---------
+TODO: Complete...
+
 To use the reem_moveit_config package you need the reem_description package that contains the robot's URDF. To download that package use the following repo:
 
    git clone https://github.com/pal-robotics/reem_common.git
